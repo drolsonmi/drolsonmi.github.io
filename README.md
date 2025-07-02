@@ -4,6 +4,12 @@
 </head>
 This is my new Website
 
-MATH 1040 - Introduction to Statistics
+# Courses:
+## MATH 1040 - Introduction to Statistics
+| Lesson                                       | Sections |
+| :------------------------------------------- | :------- |
+| 18: Confidence Intervals with 1 Sample Means | [Outlook](Stats1040/Chapter18/18_0_ConfidenceIntervals.md)<br>
+                                                 [18.1 Critical Values](Stats1040/Chapter18/18_1_CriticalValues.md) |
+                                                 
 
-PHYS 1130 - Introduction to Meteorology
+## PHYS 1130 - Introduction to Meteorology
