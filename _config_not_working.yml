@@ -1,9 +1,0 @@
-theme: jekyll-theme-minimal
-title: Dr. Michael E. Olson's homepage
-description: Materials for Snow College Classes
-
-sidebar:
-  - Home
-  - label: MATH 1040 Stats
-    children:
-      - 18.0
