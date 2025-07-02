@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: github-pages-minimal
 url: https://drolsonmi.github.io
 markdown: kramdown
 kramdown:
