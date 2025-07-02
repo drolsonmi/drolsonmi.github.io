@@ -41,7 +41,7 @@ SE &= z_c\frac{\sigma}{\sqrt{n}} \\
 
 #### Find the Confidence Interval
 The boundaries to our confidence interval are the sample mean ($$\bar{x}$$) plus or minus the margin of error ($$SE$$).
-* $$\bar{x} = 106.3$$
+* $\bar{x} = 106.3$
 * $$SE = 3.90$$
 
 $$\bar{x} + SE = 106.3 + 3.901 = 110.20  \qquad  \bar{x} - SE = 106.3 - 3.901 = 102.4$$
