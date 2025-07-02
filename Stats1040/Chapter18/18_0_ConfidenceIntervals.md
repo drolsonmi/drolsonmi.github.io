@@ -1,5 +1,5 @@
 ---
-id: Chapter 18 Overview
+id: 18.0
 ---
 
 # Lesson 18: Confidence Intervals with 1 Sample Means
