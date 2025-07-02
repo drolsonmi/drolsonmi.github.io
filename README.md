@@ -1,3 +1,7 @@
+<head>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
 This is my new Website
 
 Equations should work now.
@@ -14,3 +18,5 @@ Now in katex
 Removed default.html
 
 Switched back to MathJax and added usemathjax:true
+
+Added a head
