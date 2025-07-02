@@ -5,7 +5,7 @@
 
 # Lesson 18.2 Margin of Error
 ## Reading
-* 7.1.1 Using the z-distribution for inference when $\mu$ is unknown and $\sigma$ is known (pages 277 of the [Introduction to Statistics Textbook](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Resources/1040%20Introductory%20Statistics%20Textbook%20-%20OpenIntro%20-%20REV%206-13-19.pdf))
+* 7.1.1 Using the z-distribution for inference when $$\mu$$ is unknown and $$\sigma$$ is known (pages 277 of the [Introduction to Statistics Textbook](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Resources/1040%20Introductory%20Statistics%20Textbook%20-%20OpenIntro%20-%20REV%206-13-19.pdf))
 
 ## Lesson
 In lesson 18.1, we found the critical values of a specified critical level.
@@ -25,12 +25,14 @@ $$z = \frac{\bar{x} - \mu_{\bar{x}}}{\sigma_{\bar{x}}} = \frac{\bar{x}-\mu}{\tfr
 Since we are after the population mean, we solve for $\mu$.
 
 $$\pm z\frac{\sigma}{\sqrt{n}} = \bar{x}-\mu$$
+
 $$-\bar{x} \pm z\frac{\sigma}{\sqrt{n}} = -\mu$$
+
 $$\mu = \bar{x} \pm z\frac{\sigma}{\sqrt{n}}$$
 
-This is our confidence interval! The population mean (the true value) is most likely between $\bar{x} - z(\sigma / \sqrt{n})$ and $\bar{x} + z(\sigma / \sqrt{n})$. In the next page, we'll see a full example of this calculation along with how to interpret it.
+This is our confidence interval! The population mean (the true value) is most likely between $$\bar{x} - z(\sigma / \sqrt{n})$$ and $$\bar{x} + z(\sigma / \sqrt{n})$$. In the next page, we'll see a full example of this calculation along with how to interpret it.
 
-The last term of this formula is known as the __margin of error__ ($E$), or more commonly as the __standard error__ ($SE$).
+The last term of this formula is known as the __margin of error__ ($$E$$), or more commonly as the __standard error__ ($$SE$$).
 
 $$SE = z\frac{\sigma}{\sqrt{n}}$$
 
