@@ -1,6 +1,7 @@
----
-id: 18.0
----
+<head>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
 
 # Lesson 18: Confidence Intervals with 1 Sample Means
 Knowing the __Central Limit Theorem__, we are ready to make our first inference. By __inference__, we mean that we are using our sample to infer information about the population. 
@@ -28,4 +29,3 @@ Over the next few pages, we'll look at how to find the confidence interval. In t
 * 18.1 Critical Values
 * 18.2 Margin of Error
 * 18.3 Confidence Interval with 1 Sample Means
-* 18.4 Interpreting the Confidence Interval

@@ -1,5 +1,11 @@
+<head>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
 # Lesson 18.1 Critical Values
 ## Reading
+* 4.2.3 Normal approximation for the sampling distribution of $\bar{x}$ (pages 162-163 of the [Introduction to Statistics Textbook](../Resources/OpenIntroTextbook.pdf))
 
 ## Lesson
 In order to understand the confidence interval, let's create a scenario. This is the problem we will work on through this lesson:
@@ -16,11 +22,11 @@ We are going to create an interval, which is a range of numbers in which the tru
 
 We will use normal distributions to determine the width of our interval. However, as we saw in lesson 17 on the Central Limit Theorem, the sample __must__ be large enough for the central limit theorem to apply. Namely,
 * the sample must be random, and
-* the sample must be large enough ($n\ge 30$ for quantitative variables)
+* the sample must be large enough ($$n\ge 30$$ for quantitative variables)
 
 Now, consider a normal distribution with the central section selected. In the next figure, the central area of 90% is highlighted.
 
-<img src="https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/images/Fig18_1a_90ConfInt.png?raw=true" width="500" alt="90% Confidence Level">
+<img src="images/Fig18_1a_90ConfInt.png?raw=true" width="500" alt="90% Confidence Level">
 
 Since 90% of the area is in the center, the remaining 10% is in the tails (5% in the left and 5% in the right tail). Here are two ways to interpret this:
 * We are 90% confident that the true value is in our interval (We have a __confidence level__ of 90%)
@@ -30,7 +36,7 @@ What is the z-score that separates the tails from the center? If we take the lef
 
 > The __critical value__ is the z-score that separates the central area from the tail(s) in a normal distribution.
 
-So, the critical value of a 90% confidence level is $\pm 1.645$.
+So, the critical value of a 90% confidence level is $$\pm 1.645$$.
 
 Let's consider now a confidence level of 95%. Here is a figure of the normal distribution with 95% of the area in the center and the remaining 5% in the tails (2.5% in each tail).
 
@@ -39,7 +45,7 @@ Let's consider now a confidence level of 95%. Here is a figure of the normal dis
 * We are 95% confident that the true value is in our interval (We have a 95% confidence level)
 * We accept a 5% chance that we could be wrong
 
-The z-score separating the left tail with an area 2.5% (0.025) from the center is -1.96. Because of symmetry, the z-score that separates the 2.5% in the right tail from the center is +1.96. So, the critical value of a 95% confidence level is $\pm 1.96$.
+The z-score separating the left tail with an area 2.5% (0.025) from the center is -1.96. Because of symmetry, the z-score that separates the 2.5% in the right tail from the center is +1.96. So, the critical value of a 95% confidence level is $$\pm 1.96$$.
 
 Notice that the width (or range of values) of an area of 95% is wider than in an area of 90%. This is what we expect. With a wider interval, we have more confidence that the interval will contain our true value.
 
@@ -50,25 +56,25 @@ One more with an even wider interval. We'll look at a confidence level of 99% wi
 * We are 99% confident that the true value is in our interval (We have a 99% confidence level)
 * We accept a 1% chance that we could be wrong
 
-The z-score separating the left tail with an area 0.5% (0.005) from the center is -2.58. Because of symmetry, the z-score that separates the 0.5% in the right tail from the center is +2.58. So, the critical value of a 95% confidence level is $\pm 2.58$.
+The z-score separating the left tail with an area 0.5% (0.005) from the center is -2.58. Because of symmetry, the z-score that separates the 0.5% in the right tail from the center is +2.58. So, the critical value of a 95% confidence level is $$\pm 2.58$$.
 
 We have just found the three most common critical values.
 
 | Confidence Level | Critical Value |
 | :--------------: | :------------: |
-|     90%          |  $\pm 1.645$   |
-|     95%          |  $\pm 1.96$    |
-|     99%          |  $\pm 2.58$    |
+|     90%          |  $$\pm 1.645$$ |
+|     95%          |  $$\pm 1.96$$  |
+|     99%          |  $$\pm 2.58$$  |
 
 Other confidence levels are used, but these three are most common.
 
 ## Practice
 1. What is the critical value for the 76% confidence level?
-    * [After solving on your own, see solution here](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Lectures/Solutions/18_1_Solution1.md)
+    * [After solving on your own, see solution here](Solutions/18_1_Solution1.md)
 2. What is the critical value for the 83% confidence level?
-    * [After solving on your own, see solution here](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Lectures/Solutions/18_1_Solution2.md)
+    * [After solving on your own, see solution here](Solutions/18_1_Solution2.md)
 3. What is the critical value for the 92% confidence level?
-    * [After solving on your own, see solution here](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Lectures/Solutions/18_1_Solution3.md)
+    * [After solving on your own, see solution here](Solutions/18_1_Solution3.md)
 
 ## Technology
 ### TI-83/84
@@ -96,7 +102,7 @@ In [Desmos](www.desmos.com/calculator),
 * Select the `COMPUTE` as "Bounds"
 * After the `$P(\dots \le x \le \dots) = ` line, there is a space to type your confidence interval
 
-After doing this, the spaces in the $P(\dots \le x \le \dots)$ will auto-fill with the critical values.
+After doing this, the spaces in the $$P(\dots \le x \le \dots)$$ will auto-fill with the critical values.
 
 <img src="https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/images/Fig18_1f_Desmos.png?raw=true" width="500" alt="Desmos view of calculating the critical value">
 

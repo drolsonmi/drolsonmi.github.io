@@ -5,7 +5,7 @@
 
 # Lesson 18.2 Margin of Error
 ## Reading
-* 7.1.1 Using the z-distribution for inference when $$\mu$$ is unknown and $$\sigma$$ is known (pages 277 of the [Introduction to Statistics Textbook](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Resources/1040%20Introductory%20Statistics%20Textbook%20-%20OpenIntro%20-%20REV%206-13-19.pdf))
+* 7.1.1 Using the z-distribution for inference when $$\mu$$ is unknown and $$\sigma$$ is known (pages 277 of the [Introduction to Statistics Textbook](../Resources/OpenIntroTextbook.pdf))
 
 ## Lesson
 In lesson 18.1, we found the critical values of a specified critical level.
