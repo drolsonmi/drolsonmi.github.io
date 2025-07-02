@@ -8,3 +8,6 @@ kramdown:
   # math_engine: katex
   syntax_highlighter: rouge
 usemathjax: true
+
+sidebar:
+  - 18-3
