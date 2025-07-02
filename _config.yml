@@ -1,11 +1,8 @@
-# theme: jekyll-theme-minimal
-theme: github-pages-minimal
+theme: jekyll-theme-minimal
 url: https://drolsonmi.github.io
 markdown: kramdown
 kramdown:
-  #input: GFM
   math_engine: mathjax
-  # math_engine: katex
   syntax_highlighter: rouge
 usemathjax: true
 
