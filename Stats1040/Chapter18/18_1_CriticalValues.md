@@ -5,7 +5,7 @@
 
 # Lesson 18.1 Critical Values
 ## Reading
-* 4.2.3 Normal approximation for the sampling distribution of $\bar{x}$ (pages 162-163 of the [Introduction to Statistics Textbook](../Resources/OpenIntroTextbook.pdf))
+* 4.2.3 Normal approximation for the sampling distribution of $$\bar{x}$$ (pages 162-163 of the [Introduction to Statistics Textbook](../Resources/OpenIntroTextbook.pdf))
 
 ## Lesson
 In order to understand the confidence interval, let's create a scenario. This is the problem we will work on through this lesson:
@@ -40,7 +40,7 @@ So, the critical value of a 90% confidence level is $$\pm 1.645$$.
 
 Let's consider now a confidence level of 95%. Here is a figure of the normal distribution with 95% of the area in the center and the remaining 5% in the tails (2.5% in each tail).
 
-<img src="https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/images/Fig18_1b_95ConfInt.png?raw=true" width="500" alt="95% Confidence Level">
+<img src="images/Fig18_1b_95ConfInt.png?raw=true" width="500" alt="95% Confidence Level">
 
 * We are 95% confident that the true value is in our interval (We have a 95% confidence level)
 * We accept a 5% chance that we could be wrong
@@ -51,7 +51,7 @@ Notice that the width (or range of values) of an area of 95% is wider than in an
 
 One more with an even wider interval. We'll look at a confidence level of 99% with the remaining 1% in the tails (0.5% in each tail).
 
-<img src="https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/images/Fig18_1c_99ConfInt.png?raw=true" width="500" alt="99% Confidence Level">
+<img src="images/Fig18_1c_99ConfInt.png?raw=true" width="500" alt="99% Confidence Level">
 
 * We are 99% confident that the true value is in our interval (We have a 99% confidence level)
 * We accept a 1% chance that we could be wrong
@@ -88,7 +88,7 @@ On the TI-83/84,
 
 On the TI-84, you'll see the first image. On the TI-83, you'll go straight to the second image.
 
-<img src="https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/images/Fig18_1d_TI84.png?raw=true" width="300" alt="TI-84 view of calculating the critical value"> <img src="https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/images/Fig18_1e_TI84.png?raw=true" width="300" alt="TI-83 and TI-84 view of calculating the critical value">
+<img src="images/Fig18_1d_TI84.png?raw=true" width="300" alt="TI-84 view of calculating the critical value"> <img src="images/Fig18_1e_TI84.png?raw=true" width="300" alt="TI-83 and TI-84 view of calculating the critical value">
 
 ### Desmos
 To determine the critical value, find the area of the left tail.
@@ -100,12 +100,12 @@ In [Desmos](www.desmos.com/calculator),
 * Click the arrow next to "Cumulative Probability"
 * Select the `REGION` as "Inner"
 * Select the `COMPUTE` as "Bounds"
-* After the `$P(\dots \le x \le \dots) = ` line, there is a space to type your confidence interval
+* After the `$$P(\dots \le x \le \dots) = $$` line, there is a space to type your confidence interval
 
 After doing this, the spaces in the $$P(\dots \le x \le \dots)$$ will auto-fill with the critical values.
 
-<img src="https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/images/Fig18_1f_Desmos.png?raw=true" width="500" alt="Desmos view of calculating the critical value">
+<img src="images/Fig18_1f_Desmos.png?raw=true" width="500" alt="Desmos view of calculating the critical value">
 
 __*Note*__: You can also find the critical value using the area from the tail. Just select the `Left` or `Right` region and enter the tail's area. This will be useful when we discuss Hypothesis Testing.
 
-<img src="https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/images/Fig18_1f_Desmos.png?raw=true" width="500" alt="Desmos view of calculating the critical value using the tail">
+<img src="images/Fig18_1f_Desmos.png?raw=true" width="500" alt="Desmos view of calculating the critical value using the tail">

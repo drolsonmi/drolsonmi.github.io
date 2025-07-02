@@ -10,7 +10,7 @@
 ## Lesson
 In lesson 18.1, we found the critical values of a specified critical level.
 
-<img src="https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/images/Fig18_1a_90ConfInt.png?raw=true" width="350" alt="90% Confidence Level">
+<img src="images/Fig18_1a_90ConfInt.png?raw=true" width="350" alt="90% Confidence Level">
 
 We take these critical values and convert them back to our regular scale to find the boundaries of our confidence interval.
 
