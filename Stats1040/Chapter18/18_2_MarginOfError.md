@@ -22,7 +22,7 @@ We need to make two changes. Since we are applying the Central Limit Theorem, we
 
 $$z = \frac{\bar{x} - \mu_{\bar{x}}}{\sigma_{\bar{x}}} = \frac{\bar{x}-\mu}{\tfrac{\sigma}{\sqrt{n}}}$$
 
-Since we are after the population mean, we solve for $\mu$.
+Since we are after the population mean, we solve for $$\mu$$.
 
 $$\pm z\frac{\sigma}{\sqrt{n}} = \bar{x}-\mu$$
 
