@@ -1,3 +1,7 @@
+---
+id: Chapter 18 Overview
+---
+
 # Lesson 18: Confidence Intervals with 1 Sample Means
 Knowing the __Central Limit Theorem__, we are ready to make our first inference. By __inference__, we mean that we are using our sample to infer information about the population. 
 

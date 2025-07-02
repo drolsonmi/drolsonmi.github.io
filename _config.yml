@@ -1,3 +1,14 @@
 theme: jekyll-theme-minimal
 title: Dr. Michael E. Olson's homepage
 description: Materials for Snow College Classes
+
+sidebar:
+  - Home
+  - MATH 1040 Stats
+  children:
+    - Chapter 18: Confidence Intervals for 1 Sample Means
+    children:
+      - Chapter 18 Overview
+      - 18.1: Critical Values
+      - 18.2: Margin of Error
+      - 18.3: Constructing Confidence Intervals
