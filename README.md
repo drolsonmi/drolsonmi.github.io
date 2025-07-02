@@ -1,4 +1,1 @@
----
-id: Home
----
-New Website
+This is my new Website
