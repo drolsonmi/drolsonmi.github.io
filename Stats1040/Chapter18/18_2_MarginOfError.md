@@ -39,7 +39,7 @@ $$SE = z\frac{\sigma}{\sqrt{n}}$$
 
 ## Practice
 1. The average height of a particular species of flower is 5.5 inches with a standard deviation of 0.4 inches. You sample a subspecies and find 49 flowers with a sample mean height of 5.8 inches. What is the margin of error with a 95% confidence level?
-    * [After solving on your own, see solution here](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Lectures/Solutions/18_2_Solution1.md)
+    * [After solving on your own, see solution here](./Solutions/18_2_Solution1.md)
 2. The average length of a particular set of books written by authors around the world is 425 pages with a standard devation of 32 pages. Looking at authors specifically from South Africa, a sample of 36 of these books has an average length of 410 pages. What is the margin of error with a 90% confidence level?
     * [After solving on your own, see solution here](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Lectures/Solutions/18_2_Solution2.md)
 3. Bottles of soda are to be filled with 2.00 liters, allowing some room for error giving a standard deviation of 0.15 liters. Calculate the margin of error for a sample of 54 of these bottles with an average volume of 1.95 liters at a 99% confidence level.
