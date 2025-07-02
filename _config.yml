@@ -3,5 +3,6 @@ url: https://drolsonmi.github.io
 markdown: kramdown
 kramdown:
   #input: GFM
-  math_engine: mathjax
+  #math_engine: mathjax
+  math_engine: katex
   syntax_highlighter: rouge
