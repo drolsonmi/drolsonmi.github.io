@@ -41,10 +41,11 @@ SE &= z_c\frac{\sigma}{\sqrt{n}} \\
 
 #### Find the Confidence Interval
 The boundaries to our confidence interval are the sample mean ($$\bar{x}$$) plus or minus the margin of error ($$SE$$).
-* $\bar{x} = 106.3$
-* $$SE = 3.9$$
+* $$\bar{x} = 106.3$$ is the sample mean
+* $$SE = 3.9$$ is the standard error
 
 $$\bar{x} + SE = 106.3 + 3.9 = 110.20$$
+
 $$\bar{x} - SE = 106.3 - 3.9 = 102.4$$
 
 The confidence interval is,
@@ -59,3 +60,9 @@ Here is a proper interpretation of the confidence interval:
 > __We are 90% confident that the true average of Snow College student IQ scores is between the values of 102.4 and 110.2.__
 
 ## Practice
+1. ?
+    * [After solving on your own, see solution here](Solutions/18_3_Solution1.md)
+2. ?
+    * [After solving on your own, see solution here](Solutions/18_3_Solution2.md)
+3. ?
+    * [After solving on your own, see solution here](Solutions/18_3_Solution3.md)
