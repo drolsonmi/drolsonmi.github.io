@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 url: https://drolsonmi.github.io
 markdown: kramdown
 kramdown:
-  input: GFM
+  #input: GFM
   math_engine: mathjax
   syntax_highlighter: rouge
