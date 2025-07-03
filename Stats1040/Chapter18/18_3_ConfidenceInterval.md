@@ -1,12 +1,8 @@
 <head>
+<title>18.3 Confidence Intervals with 1 Sample Means</title>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
-
----
-id: 18-3
-title: Confidence Intervals
----
 
 # Lesson 18.3 Confidence Interval
 ## Reading
