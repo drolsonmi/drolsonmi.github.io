@@ -1,10 +1,10 @@
 <head>
-<title>18.3 Confidence Intervals with 1 Sample Means</title>
+<title>18.3 Confidence Intervals when you know the population standard deviation</title>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 
-# Lesson 18.3 Confidence Interval
+# Lesson 18.3 Confidence Interval when you know $$\sigma$$
 ## Reading
 * 7.1.1 Using the z-distribution for inference when $$\mu$$ is unknown and $$\sigma$$ is known (pages 277 of the [Introduction to Statistics Textbook](../Resources/OpenIntroTextbook.pdf))
 
