@@ -15,3 +15,8 @@
 * [18.3 Confidence Interval when you know $$\sigma$$](Chapter18/18_3_ConfidenceInterval.md)
 * [18.4 Finding the best sample size](Chapter18/18_4_FindingN.md)
 * [18.5 Confidence Interval when you don't know $$\sigma$$](Chapter18/18_5_StudentT.md)
+
+19: Confidence Intervals with 1 Sample Proportions
+* [Outlook](Chapter19/19_0_ConfidenceIntervalsProportions.md)
+* [19.1 Critical Values](Chapter19/19_1_CriticalValues.md)
+* [19.2 Confidence Intervals with Proportions](Chapter19/19_2_ConfidenceIntervalProps.md)
