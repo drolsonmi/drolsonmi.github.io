@@ -1,3 +1,8 @@
+<head>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
 ## Practice
 2. A manufacturer claims that its LED light bulbs have an average lifespan of 1,200 hours. A consumer protection agency wants to verify this claim. The population standard deviation is known to be 100 hours. What sample size is needed to get a margin of error less than 35 for a 99% confidence interval?
 
