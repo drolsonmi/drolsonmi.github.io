@@ -96,4 +96,4 @@ To find the t-score:
 * Input "df" (the degrees of freedom)
 * "Paste" and then press "Enter" again
 
-<img src="../images/Fig18_5c_TI84_invT.png?raw=true" width="500" alt="Menu for calculating Critical t-score on TI-84"> <img src="../images/Fig18_5d_TI84_invT.png?raw=true" width="500" alt="Finding Critical t-score on TI-84">
+<img src="images/Fig18_5c_TI84_invT.png?raw=true" width="500" alt="Menu for calculating Critical t-score on TI-84"> <img src="images/Fig18_5d_TI84_invT.png?raw=true" width="500" alt="Finding Critical t-score on TI-84">
