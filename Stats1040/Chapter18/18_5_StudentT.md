@@ -22,7 +22,7 @@ Fortunately, we have a solution. The normal distribution depends on the populati
 
 With the t-distribution, we find a critical value from t-scores and use the sample standard deviation to find the margin of error.
 
-$$SE = t_c\frac{s}{\sqrt{n}}$$
+$$E = t_c\frac{s}{\sqrt{n}}$$
 
 However, since the t-distribution relies on the sample, we also have to consider one more variable:
 * The __Degrees of Freedom__ is calculated as $$DF = n-1$$
@@ -40,7 +40,7 @@ Using these on the T-Table, we get a critical t-score of $$t_c = 2.064$$
 <img src="images/Fig18_5b_tTable.png?raw=true" width="500" alt="T-Distributions with varying degrees of freedom">
 
 Other than that, the calculations for the Margin of Error and the Confidence Interval are exactly the same.
-$$SE = t_c\frac{s}{\sqrt{n}} \qquad \mu = \bar{x} \pm SE$$
+$$E = t_c\frac{s}{\sqrt{n}} \qquad \mu = \bar{x} \pm SE$$
 
 #### Example
 Here is the problem from earlier:
@@ -66,9 +66,9 @@ Using the T-Table or the TI-84, we get a critical value of $$t_c = 2.064$$.
 
 $$SE = t_c\frac{s}{\sqrt{n}} = 2.064\frac{1.2}{\sqrt{25}} = 0.495$$
 
-$$\bar{x} + SE = 6.8 + 0.495 = 7.295 \approx \mathbf{7.3}$$
+$$\bar{x} + E = 6.8 + 0.495 = 7.295 \approx \mathbf{7.3}$$
 
-$$\bar{x} - SE = 6.8 - 0.495 = 6.305 \approx \mathbf{6.3}$$
+$$\bar{x} - E = 6.8 - 0.495 = 6.305 \approx \mathbf{6.3}$$
 
 Solution: __We are 95% confident that the true mean for the number of hours of sleep college students get on weeknights is between 6.3 and 7.3 hours__.
 

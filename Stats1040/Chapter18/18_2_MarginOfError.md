@@ -32,9 +32,9 @@ $$\mu = \bar{x} \pm z\frac{\sigma}{\sqrt{n}}$$
 
 This is our confidence interval! The population mean (the true value) is most likely between $$\bar{x} - z(\sigma / \sqrt{n})$$ and $$\bar{x} + z(\sigma / \sqrt{n})$$. In the next page, we'll see a full example of this calculation along with how to interpret it.
 
-The last term of this formula is known as the __margin of error__ ($$E$$), or more commonly as the __standard error__ ($$SE$$).
+The last term of this formula is known as the __margin of error__ ($$E$$).
 
-$$SE = z\frac{\sigma}{\sqrt{n}}$$
+$$E = z\frac{\sigma}{\sqrt{n}}$$
 
 
 ## Practice

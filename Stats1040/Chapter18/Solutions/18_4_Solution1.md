@@ -10,9 +10,9 @@
 From the problem we get the following information:
 * A confidence interval of 95% has a critical value of $$z_c = 1.96$$
 * The population standard deviation is $$\sigma=8$$
-* The desired margin of error is $$SE = 3.0$$
+* The desired margin of error is $$E = 3.0$$
 
-$$n = \left(\frac{z_c \sigma}{SE}\right)^2 \left(\frac{1.96\cdot 8}{3}\right)^2 = 27.32$$
+$$n = \left(\frac{z_c \sigma}{E}\right)^2 \left(\frac{1.96\cdot 8}{3}\right)^2 = 27.32$$
 
 Rounding up, __the required sample size is at least 28__.
 

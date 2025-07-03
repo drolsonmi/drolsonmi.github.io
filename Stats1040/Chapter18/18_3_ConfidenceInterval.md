@@ -40,27 +40,27 @@ We are given a confidence level of 90%.
 * The z-scores that separate the two tails are $$\pm$$1.645.
 
 #### 3. Find the Margin of Error
-The equation for the margin of error is $$SE = z_c\tfrac{\sigma}{\sqrt{n}}$$.
+The equation for the margin of error is $$E = z_c\tfrac{\sigma}{\sqrt{n}}$$.
 * $$z_c = \pm 1.645$$ is the critical value
 * $$\sigma = 15$$ is the population standard deviation
 * $$n = 40$$ is the sample size
 
 Plugging these in,
 $$\begin{align*}
-SE &= z_c\frac{\sigma}{\sqrt{n}} \\
-   &= \pm 1.645 \frac{15}{\sqrt{40}} \\
-   &= \frac{\pm 24.675}{6.3246} \\
-   &= \mathbf{3.90}
+E &= z_c\frac{\sigma}{\sqrt{n}} \\
+  &= \pm 1.645 \frac{15}{\sqrt{40}} \\
+  &= \frac{\pm 24.675}{6.3246} \\
+  &= \mathbf{3.90}
 \end{align*}$$
 
 #### 4. Find the Confidence Interval
-The boundaries to our confidence interval are the sample mean ($$\bar{x}$$) plus or minus the margin of error ($$SE$$).
+The boundaries to our confidence interval are the sample mean ($$\bar{x}$$) plus or minus the margin of error ($$E$$).
 * $$\bar{x} = 106.3$$ is the sample mean
-* $$SE = 3.9$$ is the standard error
+* $$E = 3.9$$ is the standard error
 
-$$\bar{x} + SE = 106.3 + 3.9 = 110.20$$
+$$\bar{x} + E = 106.3 + 3.9 = 110.20$$
 
-$$\bar{x} - SE = 106.3 - 3.9 = 102.4$$
+$$\bar{x} - E = 106.3 - 3.9 = 102.4$$
 
 The confidence interval is,
 

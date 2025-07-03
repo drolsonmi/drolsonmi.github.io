@@ -10,9 +10,9 @@
 From the problem we get the following information:
 * A confidence interval of 92% has a critical value of $$z_c = 1.75$$
 * The population standard deviation is $$\sigma=100$$
-* The desired margin of error is $$SE = 25$$
+* The desired margin of error is $$E = 25$$
 
-$$n = \left(\frac{z_c \sigma}{SE}\right)^2 \left(\frac{1.75\cdot 100}{25}\right)^2 = 49$$
+$$n = \left(\frac{z_c \sigma}{E}\right)^2 \left(\frac{1.75\cdot 100}{25}\right)^2 = 49$$
 
 Since this is an exact number, we don't need to round up. __The required sample size is at least 49__.
 

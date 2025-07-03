@@ -17,12 +17,12 @@ With a 99% confidence interval, the remaining 1% is divided between the two tail
 * The z-score dividing the center from the two tails is $$\pm$$2.58
 
 #### 3. Margin of Error
-$$SE = z_c\frac{\sigma}{\sqrt{n}} = 2.58\frac{100}{\sqrt{40}} = 40.79$$
+$$E = z_c\frac{\sigma}{\sqrt{n}} = 2.58\frac{100}{\sqrt{40}} = 40.79$$
 
 #### 4. Confidence Interval
-$$\bar{x} + SE = 1165 + 40.79 = 1205.79$$
+$$\bar{x} + E = 1165 + 40.79 = 1205.79$$
 
-$$\bar{x} - SE = 1165 - 40.79 = 1124.21$$
+$$\bar{x} - E = 1165 - 40.79 = 1124.21$$
 
 __The confidence interval is (1,124.21 , 1,205.79)__.
 

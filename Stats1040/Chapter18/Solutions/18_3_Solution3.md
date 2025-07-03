@@ -17,12 +17,12 @@ With a 92% confidence interval, the remaining 8% is divided between the two tail
 * Using a Z-Table or a calculator, we find that the z-score dividing the center from the two tails is $$\pm$$1.75
 
 #### 3. Margin of Error
-$$SE = z_c\frac{\sigma}{\sqrt{n}} = 1.75\frac{100}{\sqrt{60}} = 22.59$$
+$$E = z_c\frac{\sigma}{\sqrt{n}} = 1.75\frac{100}{\sqrt{60}} = 22.59$$
 
 #### 4. Confidence Interval
-$$\bar{x} + SE = 540 + 22.59 = 562.59$$
+$$\bar{x} + E = 540 + 22.59 = 562.59$$
 
-$$\bar{x} - SE = 540 - 22.59 = 517.41$$
+$$\bar{x} - E = 540 - 22.59 = 517.41$$
 
 __The confidence interval is (517.41, 562.59)__.
 

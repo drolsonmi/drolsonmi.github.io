@@ -10,9 +10,9 @@
 From the problem we get the following information:
 * A confidence interval of 99% has a critical value of $$z_c = 2.58$$
 * The population standard deviation is $$\sigma=100$$
-* The desired margin of error is $$SE = 35$$
+* The desired margin of error is $$E = 35$$
 
-$$n = \left(\frac{z_c \sigma}{SE}\right)^2 \left(\frac{2.58\cdot 100}{35}\right)^2 = 54.34$$
+$$n = \left(\frac{z_c \sigma}{E}\right)^2 \left(\frac{2.58\cdot 100}{35}\right)^2 = 54.34$$
 
 Rounding up, __the required sample size is at least 55__.
 

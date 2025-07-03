@@ -10,10 +10,10 @@ We are also given information about the sample:
 * $n$ = 54
 
 The critical value for a 99% confidence level is 2.58. The margin of error then is,
-$$SE = z\frac{\sigma}{\sqrt{n}} = 2.58\frac{0.15}{\sqrt{54}} = \mathbf{0.053}$$
+$$E = z\frac{\sigma}{\sqrt{n}} = 2.58\frac{0.15}{\sqrt{54}} = \mathbf{0.053}$$
 
 The confidence interval then is between the two values,
-* $\bar{x} + SE =$ 1.95 + 0.053 = 2.003
-* $\bar{x} - SE =$ 1.95 - 0.053 = 1.897
+* $\bar{x} + E =$ 1.95 + 0.053 = 2.003
+* $\bar{x} - E =$ 1.95 - 0.053 = 1.897
 
 [Return back to Lesson 18.2](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Lectures/18_2_CriticalValues.md#practice)
