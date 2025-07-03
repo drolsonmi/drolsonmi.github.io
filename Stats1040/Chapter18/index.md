@@ -16,7 +16,7 @@ For example, if we take the weights from a sample of 250 Americans and find a sa
     * Upper boundary: 175 pounds + 2.61 pounds = 177.61 pounds
     * Lower boundary: 175 pounds - 2.61 pounds = 172.39 pounds
     * The confidence interval:
-      * $175 \pm 2.61 pounds
+      * $$175 \pm 2.61$$ pounds
       * (172.39, 177.61)
 * We __interpret__ the confidence interval
     * We can say with 90% certainty that the true average weight of Americans is between 172.39 pounds and 177.61 pounds
