@@ -64,7 +64,7 @@ So, the Central Limit Theorem holds.
 
 Using the T-Table or the TI-84, we get a critical value of $$t_c = 2.064$$.
 
-$$SE = t_c\frac{s}{\sqrt{n}} = 2.064\frac{1.2}{\sqrt{25}} = 0.495$$
+$$E = t_c\frac{s}{\sqrt{n}} = 2.064\frac{1.2}{\sqrt{25}} = 0.495$$
 
 $$\bar{x} + E = 6.8 + 0.495 = 7.295 \approx \mathbf{7.3}$$
 
