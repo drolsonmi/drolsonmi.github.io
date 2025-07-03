@@ -1,3 +1,8 @@
+<head>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
 ## Practice
 3. A national education researcher wants to estimate the average SAT Math score for high school seniors in a particular state. The population standard deviation is known to be 100 points. What sample size is needed to get a margin of error less than 25 for a 92% confidence interval?
 
