@@ -48,7 +48,7 @@ The equation for the margin of error is $$SE = z_c\tfrac{\sigma}{\sqrt{n}}$$.
 Plugging these in,
 $$\begin{align*}
 SE &= z_c\frac{\sigma}{\sqrt{n}} \\
-   &= \pm 1.645 \frac{15}{\sqrt{n}} \\
+   &= \pm 1.645 \frac{15}{\sqrt{40}} \\
    &= \frac{\pm 24.675}{6.3246} \\
    &= \mathbf{3.90}
 \end{align*}$$
@@ -85,5 +85,14 @@ Here is a proper interpretation of the confidence interval:
 
 ## Technology
 ### TI-83/84
-### Excel
-### Desmos
+To calculate the Confidence Interval on a TI-83/84,
+* Press `STAT`
+* Select the `TESTS` menu
+* Select `7:ZInterval...`
+* Under "Inpt", select "Stats"
+* Enter $$\sigma$$, $$\bar{x}$$, $$n$$, and the Confidence Level
+* Select "Calculate"
+
+<img src="images/Fig18_3a_TI84Input.png?raw=true" width="500" alt="TI-84 Confidence Interval Calculation"> <img src="images/Fig18_3b_TI84Results.png?raw=true" width="500" alt="TI-84 Confidence Interval Results">
+
+Alternatively, you can put your data into a List, then under "Inpt" select "Data". Indicate the list your data is in, and it will calculate $$\bar{x}$$ and $$n$$ for you. (You will still need to indicate $$\sigma$$ and the confidence level.)
