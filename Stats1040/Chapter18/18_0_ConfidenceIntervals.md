@@ -29,3 +29,4 @@ Over the next few pages, we'll look at how to find the confidence interval. In t
 * 18.1 Critical Values
 * 18.2 Margin of Error
 * 18.3 Confidence Interval with 1 Sample Means
+* 18.4 The Student-T Distribution
