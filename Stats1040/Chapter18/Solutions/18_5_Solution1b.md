@@ -20,7 +20,7 @@ First, we verify the central limit theorem.
 
 Now, we need to find the critical value. Since we only have a *sample standard deviation*, we need to find a critical *t-score*. With a 90% confidence interval and $$n-1 = 15$$ degrees of freedom, we find a critical value of $$t_c = 1.753$$.
 
-<img src="../images/Fig18_5c_Practice1.png?raw=true" width="500" alt="Finding Critical Value for Practice Problem 1">
+<img src="../images/Fig18_5e_Practice1.png?raw=true" width="500" alt="Finding Critical Value for Practice Problem 1">
 
 $$E = t_c\frac{s}{\sqrt{n}} = 1.753\frac{2.1}{\sqrt{16}} = 0.92$$
 

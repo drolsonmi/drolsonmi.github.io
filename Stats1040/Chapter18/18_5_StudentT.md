@@ -62,7 +62,7 @@ __Before we do anything, we must verify that the Central Limit Theorem holds.__
 
 So, the Central Limit Theorem holds.
 
-Using the T-Table or the TI-84, we get a critical value of $$t_c = 2.064$$.
+Using the T-Table or the TI-84 with a confidence level of 95% and 24 degrees of freedom, we get a critical value of $$t_c = 2.064$$.
 
 $$E = t_c\frac{s}{\sqrt{n}} = 2.064\frac{1.2}{\sqrt{25}} = 0.495$$
 
@@ -87,3 +87,13 @@ Solution: __We are 95% confident that the true mean for the number of hours of s
 Note that this method will not work on the TI-83. Use the [T-Table](../Resources/T-Table.pdf) instead.
 
 To find the t-score:
+* Find the confidence level and the degrees of freedom
+* From the confidence level, find the area of the left tail
+    * If confidence level is 95%, the remaining 5% is divided between the 2 tails, so the left tail has 2.5%.
+* Press `2nd [DISTR]`
+* Select `4:invT(`
+* Input the "area" of the left tail
+* Input "df" (the degrees of freedom)
+* "Paste" and then press "Enter" again
+
+<img src="../images/Fig18_5c_TI84_invT.png?raw=true" width="500" alt="Menu for calculating Critical t-score on TI-84"> <img src="../images/Fig18_5d_TI84_invT.png?raw=true" width="500" alt="Finding Critical t-score on TI-84">
