@@ -9,7 +9,7 @@
 ### Lectures
 
 18: Confidence Intervals with 1 Sample Means
-* [Outlook](Chapter18/18_0_ConfidenceIntervals.md)
+* [Lesson 18 Overview](Chapter18)
 * [18.1 Critical Values](Chapter18/18_1_CriticalValues.md)
 * [18.2 Margin of Error](Chapter18/18_2_MarginOfError.md)
 * [18.3 Confidence Interval when you know $$\sigma$$](Chapter18/18_3_ConfidenceInterval.md)
@@ -17,6 +17,6 @@
 * [18.5 Confidence Interval when you don't know $$\sigma$$](Chapter18/18_5_StudentT.md)
 
 19: Confidence Intervals with 1 Sample Proportions
-* [Outlook](Chapter19/19_0_ConfidenceIntervalsProportions.md)
+* [Lesson 19 Overview](Chapter19)
 * [19.1 Critical Values](Chapter19/19_1_CriticalValues.md)
 * [19.2 Confidence Intervals with Proportions](Chapter19/19_2_ConfidenceIntervalProps.md)
