@@ -12,7 +12,7 @@
 
 ## Lesson
 Consider this problem:
-> A health researcher wants to estimate the average number of hours of sleep that college students get on weeknights. A random sample of 25 students is taken, and the sample yields a mean of 6.8 hours with a sample standard deviation of 1.2 hours.
+> A health researcher wants to estimate the average number of hours of sleep that college students get on weeknights. A random sample of 25 students is taken from a normally-distributed population, and the sample yields a mean of 6.8 hours with a sample standard deviation of 1.2 hours.
 > 
 > Construct a 95% confidence interval for the true mean number of hours of sleep college students get on weeknights.
 
