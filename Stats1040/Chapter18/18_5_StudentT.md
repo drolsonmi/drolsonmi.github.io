@@ -83,7 +83,20 @@ Solution: __We are 95% confident that the true mean for the number of hours of s
     * [After solving on your own, see solution here](Solutions/18_5_Solution3.md)
 
 ## Technology
-### TI-84
+### TI-83/84
+#### Confidence Interval with t-values
+* `STAT` --> [TESTS]
+* 8:TInterval
+* Set Input to 'Stats'
+* Add mean, standard deviation, and size of your sample 
+* Set C-Level to the requested confidence level
+* Select 'Calculate'
+
+<img src="images/Fig18_5c_TI84_ConfInt.png?raw=true" width="250" alt="Menu for calculating Critical t-score on TI-84"> <img src="images/Fig18_5d_TI84_ConfInt.png?raw=true" width="250" alt="Finding Critical t-score on TI-84">
+
+Alternatively, you can set Input to 'Data' and add your data to a list. The calculator will calculate the mean and standard deviation for you.
+
+#### Finding a t-value
 Note that this method will not work on the TI-83. Use the [T-Table](../Resources/T-Table.pdf) instead.
 
 To find the t-score:
@@ -96,4 +109,4 @@ To find the t-score:
 * Input "df" (the degrees of freedom)
 * "Paste" and then press "Enter" again
 
-<img src="images/Fig18_5c_TI84_invT.png?raw=true" width="250" alt="Menu for calculating Critical t-score on TI-84"> <img src="images/Fig18_5d_TI84_invT.png?raw=true" width="250" alt="Finding Critical t-score on TI-84">
+<img src="images/Fig18_5e_TI84_invT.png?raw=true" width="250" alt="Menu for calculating Critical t-score on TI-84"> <img src="images/Fig18_5f_TI84_invT.png?raw=true" width="250" alt="Finding Critical t-score on TI-84">
