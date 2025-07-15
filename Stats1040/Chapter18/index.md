@@ -26,8 +26,8 @@ This doesn't give an exact number, but it gives us a good approximation.
 Over the next few pages, we'll look at how to find the confidence interval. In this lesson, we will focus on a single sample of quantitative data
 
 ## Topics in this lecture
-* 18.1 Critical Values
-* 18.2 Margin of Error
-* 18.3 Confidence Interval with 1 Sample Means
-* 18.4 Finding the best sample size
-* 18.5 Confidence Intervals when you don't know $$\sigma$$
+* [18.1 Critical Values](18_1_CriticalValues.md)
+* [18.2 Margin of Error](18_2_MarginOfError.md)
+* [18.3 Confidence Interval with 1 Sample Means](18_3_ConfidenceInterval.md)
+* [18.4 Finding the best sample size](18_4_FindingN.md)
+* [18.5 Confidence Intervals when you don't know $$\sigma$$](18_5_StudentT.md)
