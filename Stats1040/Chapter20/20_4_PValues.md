@@ -8,6 +8,13 @@
 
 ## Lesson
 
+
+
+
+
+
+
+
 ## Practice
 1. ?
     * After solving on your own, check the solution: <button popovertarget="Problem_1">Solution</button>
@@ -58,6 +65,8 @@ It can be used when you want to tell something important.
 ## Technology
 
 ### TI-83/84
+
+Note that the p-value appears on your TI-84 as `p=`. This is not to be confused with `$$\hat{p}$$` which is a proportion.
 
 ### Excel
 
