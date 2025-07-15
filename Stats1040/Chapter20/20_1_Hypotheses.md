@@ -66,11 +66,9 @@ The rest of the lesson will look at how to determine which hypothesis we accept.
 ## Practice
 For each of the following questions, establish both the Null Hypothesis and the Alternate Hypothesis
 1. A coffee shop claims that the average wait time for a customer to receive their order is no more than 4 minutes. A customer advocacy group believes the wait time is longer. A random sample of 35 customers had an average wait time of 4.6 minutes with a standard deviation of 1.2 minutes. At the 5% significance level, test the claim that the average wait time is greater than 4 minutes.
-    * After solving on your own, check the solution: <button popovertarget="Problem_1">Solution</button>
-
+    * After solving on your own, check the solution: <button popovertarget="Problem_1">Solution</button><br>
 2. A smartphone manufacturer advertises that their new model has an average battery life of 20 hours. A tech reviewer suspects the battery life is less than advertised. A sample of 55 phones showed an average battery life of 18.7 hours with a standard deviation of 2.5 hours. Conduct a hypothesis test at the 1% significance level.
-    * After solving on your own, see solution here <button popovertarget="Problem_2">Solution</button>
-
+    * After solving on your own, see solution here <button popovertarget="Problem_2">Solution</button><br>
 3. An educator wants to test whether a new teaching method affects student performance. Historically, the average score on a standardized exam is 75. The educator believes the new method may lead to a different average score. A class of 40 students taught with the new method had an average score of 78.2 with a standard deviation of 6.3. Test the hypothesis at the 5% significance level.
     * After solving on your own, see solution here <button popovertarget="Problem_3">Solution</button>
 
