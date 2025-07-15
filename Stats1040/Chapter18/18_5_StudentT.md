@@ -6,9 +6,10 @@
 
 # Lesson 18.5 Confidence Interval when you don't know $$\sigma$$
 ## Reading
-* 7.1.2 Introducing the t-distribution (pages 278-281 of the [Introductory Statistics Textbook](../Resources/OpenIntroTextbook.pdf))
-* 7.1.3 The t-distribution and the standard error of a mean (page 281 of the [Introductory Statistics Textbook](../Resources/OpenIntroTextbook.pdf))
-* 7.1.5 One sample t-intervals (pages 282-285 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
+Reading sections are from the [Introductory Statistics Textbook](../Resources/OpenIntroTextbook.pdf)
+* 7.1.2 Introducing the t-distribution (pages 278-281)
+* 7.1.3 The t-distribution and the standard error of a mean (page 281)
+* 7.1.5 One sample t-intervals (pages 282-285)
 
 ## Lesson
 Consider this problem:

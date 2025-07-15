@@ -5,8 +5,9 @@
 
 # Lesson 20.1 Hypotheses
 ## Reading
-* 5.3.1 Introducing Hypotheis Testing (page 195 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
-* 5.3.2 Setting up the null and alternate hypotheses (pages 196-198 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
+Reading sections are from the [Introductory Statistics Textbook](../Resources/OpenIntroTextbook.pdf)
+* 5.3.1 Introducing Hypotheis Testing (page 195)
+* 5.3.2 Setting up the null and alternate hypotheses (pages 196-198)
 
 ## Lesson
 Imagine you are in a courtroom as a member of the jury. The defendant comes in. As a member of the jury,

@@ -6,7 +6,8 @@
 
 # Lesson 18.4 Finding the best sample size
 ## Reading
-* 7.1.6 Choosing a sample size when estimating a mean (pages 285-286 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
+Reading sections are from the [Introductory Statistics Textbook](../Resources/OpenIntroTextbook.pdf)
+* 7.1.6 Choosing a sample size when estimating a mean (pages 285-286)
 
 ## Lesson
 How do you know what the sample size $$n$$ should be? This is actually not hard. Take the Margin of Error and solve for $$n$$:

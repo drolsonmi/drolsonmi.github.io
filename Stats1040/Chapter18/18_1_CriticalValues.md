@@ -5,7 +5,8 @@
 
 # Lesson 18.1 Critical Values
 ## Reading
-* 4.2.3 Normal approximation for the sampling distribution of $$\bar{x}$$ (pages 162-163 of the [Introduction to Statistics Textbook](../Resources/OpenIntroTextbook.pdf))
+Reading sections are from the [Introductory Statistics Textbook](../Resources/OpenIntroTextbook.pdf)
+* 4.2.3 Normal approximation for the sampling distribution of $$\bar{x}$$ (pages 162-163)
 
 ## Lesson
 In order to understand the confidence interval, let's create a scenario. This is the problem we will work on through this lesson:

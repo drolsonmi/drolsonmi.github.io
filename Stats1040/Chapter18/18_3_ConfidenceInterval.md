@@ -6,7 +6,8 @@
 
 # Lesson 18.3 Confidence Interval when you know $$\sigma$$
 ## Reading
-* 7.1.1 Using the z-distribution for inference when $$\mu$$ is unknown and $$\sigma$$ is known (pages 277 of the [Introduction to Statistics Textbook](../Resources/OpenIntroTextbook.pdf))
+Reading sections are from the [Introductory Statistics Textbook](../Resources/OpenIntroTextbook.pdf)
+* 7.1.1 Using the z-distribution for inference when $$\mu$$ is unknown and $$\sigma$$ is known (pages 277)
 
 ## Lesson
 To find a confidence interval, these are the steps you need to follow:

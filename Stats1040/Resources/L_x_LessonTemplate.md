@@ -23,6 +23,8 @@ __Template for lesson pages L.x__
 
 # Lesson 20.1 Introduction to Hypothesis Testing
 ## Reading
+Reading sections are from the [Introductory Statistics Textbook](../Resources/OpenIntroTextbook.pdf)
+* 7.1.1 ---
 
 ## Lesson
 
