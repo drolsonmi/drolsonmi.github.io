@@ -5,6 +5,8 @@
 
 # Lesson 20.1 Hypotheses
 ## Reading
+* 5.3.1 Introducing Hypotheis Testing (page 195 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
+* 5.3.2 Setting up the null and alternate hypotheses (pages 196-198 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
 
 ## Lesson
 Imagine you are in a courtroom as a member of the jury. The defendant comes in. As a member of the jury,
@@ -116,12 +118,3 @@ $$H_0: \mu = 75 \qquad\qquad H_A: \mu \ne 75$$
 
 <center><button popovertarget="Problem_3" popovertargetaction="hide">Close</button></center>
 </div>
-
-
-## Technology
-
-### TI-83/84
-
-### Excel
-
-### Desmos

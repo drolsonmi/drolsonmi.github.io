@@ -108,7 +108,7 @@ Our textbook this semester is [Introductory Statistics](OpenIntroTextbook.pdf) b
 ## 17.3 The Central Limit Theorem
 * 4.2.2 Examining the Central Limit Theorem (pages 159-162 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
 
-# Lesson 18 Confifdence Intervals with 1 Sample Means
+# Lesson 18 Confidence Intervals with 1 Sample Means
 ## 18.1 Critical Values
 * 4.2.3 Normal approximation for the sampling distribution of $\bar{x}$ (pages 162-163 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
 
@@ -126,3 +126,12 @@ Our textbook this semester is [Introductory Statistics](OpenIntroTextbook.pdf) b
 * 7.1.2 Introducing the t-distribution (pages 278-281 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
 * 7.1.3 The t-distribution and the standard error of a mean (page 281 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
 * 7.1.5 One sample t-intervals (pages 282-285 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
+
+
+
+
+
+# Lesson 20 Hypothesis Testing with 1 Sample Means
+## 20.1 Hypotheses
+* 5.3.1 Introducing Hypotheis Testing (page 195 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
+* 5.3.2 Setting up the null and alternate hypotheses (pages 196-198 of the [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
