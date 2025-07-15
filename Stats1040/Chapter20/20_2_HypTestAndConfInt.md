@@ -1,37 +1,16 @@
-__Template for Overview Page L.0__
-
 <head>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 
-# Lesson 19: Confidence Intervals with 1 Sample Proportions
-
-## Quick example
-
-## Topics in this lecture
-
-
----------------------------------------------------------
-
-__Template for lesson pages L.x__
-
-<head>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-</head>
-
-# Lesson 20.1 Introduction to Hypothesis Testing
+# Lesson 20.2 How Confidence Intervals fit in
 ## Reading
 
 ## Lesson
 
 ## Practice
-
-
 1. ?
     * After solving on your own, check the solution: <button popovertarget="Problem_1">Solution</button>
-
 2. ?
     * After solving on your own, see solution here <button popovertarget="Problem_2">Solution</button>
 3. ?
@@ -39,7 +18,7 @@ __Template for lesson pages L.x__
 
 <div popover id="Problem_1">
 
-## Problem 20.1.1
+## Problem 20.2.1
 A popover is an element that is placed on top of everything else.
 * Item 1
 * Item 2
@@ -52,7 +31,7 @@ It can be used when you want to tell something important.
 
 <div popover id="Problem_2">
 
-## Problem 20.1.2
+## Problem 20.2.2
 A popover is an element that is placed on top of everything else.
 * Item 1
 * Item 2
@@ -64,7 +43,7 @@ It can be used when you want to tell something important.
 </div>
 <div popover id="Problem_3">
 
-## Problem 20.1.3
+## Problem 20.2.3
 A popover is an element that is placed on top of everything else.
 * Item 1
 * Item 2

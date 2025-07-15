@@ -20,3 +20,16 @@
 * [Lesson 19 Overview](Chapter19)
 * [19.1 Critical Values](Chapter19/19_1_CriticalValues.md)
 * [19.2 Confidence Intervals with Proportions](Chapter19/19_2_ConfidenceIntervalProps.md)
+
+20: Hypothesis Testing with 1 Sample Means
+* [Lesson 20 Overview](Chapter20)
+* [20.1 Hypotheses](Chapter20/20_1_Hypotheses.md)
+* [20.2 How Confidence Intervals fit in](Chapter20/20_2_HypTestAndConfInt.md)
+* [20.3 Critical Regions](Chapter20/20_3_CriticalRegions.md)
+* [20.4 P-Values](Chapter20/20_4_PValues.md)
+* [20.5 Full Hypothesis Test with 1 Sample of Quantitative Data (Means)](Chapter20/20_5_HypTest1SampleMeans.md)
+
+21: Hypothesis Testing with 1 Sample Proportions
+* []()
+* []()
+* []()
