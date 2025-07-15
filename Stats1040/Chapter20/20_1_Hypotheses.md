@@ -74,14 +74,14 @@ For each of the following questions, establish both the Null Hypothesis and the 
 
 <div popover id="Problem_1">
 
-## Problem 20.1.1
-1. A coffee shop claims that the average wait time for a customer to receive their order is no more than __4 minutes__. A customer advocacy group believes __the wait time is longer__. A random sample of 35 customers had an average wait time of 4.6 minutes with a standard deviation of 1.2 minutes. At the 5% significance level, test the claim that the average wait time is greater than 4 minutes.
+<h1>Problem 20.1.1</h1>
+<p>1. A coffee shop claims that the average wait time for a customer to receive their order is no more than <b>4 minutes</b>. A customer advocacy group believes <b>the wait time is longer</b>. A random sample of 35 customers had an average wait time of 4.6 minutes with a standard deviation of 1.2 minutes. At the 5% significance level, test the claim that the average wait time is greater than 4 minutes.</p>
 
-Our study is comparing the average wait time to __4 minutes__. This is our null value.
+<p>Our study is comparing the average wait time to <b>4 minutes</b>. This is our null value.</p>
 
 $$\mu_0 = 4$$
 
-The default assumption is that the true mean is 4 minutes. We are testing to see if the wait time at the coffee shop is __longer__ than 4 minutes. So, our hypotheses are:
+<p>The default assumption is that the true mean is 4 minutes. We are testing to see if the wait time at the coffee shop is <b>longer</b> than 4 minutes. So, our hypotheses are:</p>
 
 $$H_0: \mu = 4 \qquad \qquad H_A: \mu > 4$$
 
