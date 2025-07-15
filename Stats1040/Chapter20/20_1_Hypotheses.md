@@ -67,8 +67,10 @@ The rest of the lesson will look at how to determine which hypothesis we accept.
 For each of the following questions, establish both the Null Hypothesis and the Alternate Hypothesis
 1. A coffee shop claims that the average wait time for a customer to receive their order is no more than 4 minutes. A customer advocacy group believes the wait time is longer. A random sample of 35 customers had an average wait time of 4.6 minutes with a standard deviation of 1.2 minutes. At the 5% significance level, test the claim that the average wait time is greater than 4 minutes.
     * After solving on your own, check the solution: <button popovertarget="Problem_1">Solution</button>
+
 2. A smartphone manufacturer advertises that their new model has an average battery life of 20 hours. A tech reviewer suspects the battery life is less than advertised. A sample of 55 phones showed an average battery life of 18.7 hours with a standard deviation of 2.5 hours. Conduct a hypothesis test at the 1% significance level.
     * After solving on your own, see solution here <button popovertarget="Problem_2">Solution</button>
+
 3. An educator wants to test whether a new teaching method affects student performance. Historically, the average score on a standardized exam is 75. The educator believes the new method may lead to a different average score. A class of 40 students taught with the new method had an average score of 78.2 with a standard deviation of 6.3. Test the hypothesis at the 5% significance level.
     * After solving on your own, see solution here <button popovertarget="Problem_3">Solution</button>
 
@@ -90,14 +92,14 @@ $$H_0: \mu = 4 \qquad \qquad H_A: \mu > 4$$
 
 <div popover id="Problem_2">
 
-## Problem 20.1.2
-2. A smartphone manufacturer advertises that their new model has an average battery life of __20 hours__. A tech reviewer suspects the battery life is __less than advertised__. A sample of 55 phones showed an average battery life of 18.7 hours with a standard deviation of 2.5 hours. Conduct a hypothesis test at the 1% significance level.
+<h1>Problem 20.1.2</h1>
+<p>2. A smartphone manufacturer advertises that their new model has an average battery life of <b>20 hours</b>. A tech reviewer suspects the battery life is <b>less than advertised</b>. A sample of 55 phones showed an average battery life of 18.7 hours with a standard deviation of 2.5 hours. Conduct a hypothesis test at the 1% significance level.</p>
 
-The advertisement says the average is 20 hours, and we are comparing our phone batteries to this number, so this is our null value.
+<p>The advertisement says the average is 20 hours, and we are comparing our phone batteries to this number, so this is our null value.</p>
 
 $$\mu_0 = 20$$
 
-The default assumption is that this is correct. The test is to see if the time is __less__ than advertised. So, our hypotheses are:
+<p>The default assumption is that this is correct. The test is to see if the time is <b>less</b> than advertised. So, our hypotheses are:</p>
 
 $$H_0: \mu = 20 \qquad\qquad H_A: \mu < 20$$
 
@@ -105,14 +107,14 @@ $$H_0: \mu = 20 \qquad\qquad H_A: \mu < 20$$
 </div>
 <div popover id="Problem_3">
 
-## Problem 20.1.3
-3. An educator wants to test whether a new teaching method affects student performance. __Historically, the average score on a standardized exam is 75__. The educator believes the __new method may lead to a different average score__. A class of 40 students taught with the new method had an average score of 78.2 with a standard deviation of 6.3. Test the hypothesis at the 5% significance level.
+<h1>Problem 20.1.3</h1>
+<p>3. An educator wants to test whether a new teaching method affects student performance. <b>Historically, the average score on a standardized exam is 75</b>. The educator believes the <b>new method may lead to a different average score</b>. A class of 40 students taught with the new method had an average score of 78.2 with a standard deviation of 6.3. Test the hypothesis at the 5% significance level.</p>
 
-The standardized exam shows an average score of 75 using the previous teaching method. This is what we are comparing the new teaching method to, so we use 75 as our null value.
+<p>The standardized exam shows an average score of 75 using the previous teaching method. This is what we are comparing the new teaching method to, so we use 75 as our null value.</p>
 
 $$\mu_0 = 75$$
 
-We want to see if the new teaching method leads to __different__ average scores. In this case, we don't care if the score is greater or smaller - just different. So, our hypotheses are:
+<p>We want to see if the new teaching method leads to <b>different</b> average scores. In this case, we don't care if the score is greater or smaller - just different. So, our hypotheses are:</p>
 
 $$H_0: \mu = 75 \qquad\qquad H_A: \mu \ne 75$$
 
