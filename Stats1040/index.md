@@ -37,3 +37,14 @@
 * []()
 * []()
 * []()
+
+22: Inference of 2 Independent samples (Means)
+* 22.1 Reminder of Dependent vs. Independent samples
+* 22.2 Hypotheses of 2 Independent samples
+* 22.3 Confidence Intervals for 2 Independent Samples
+* 22.4 Hypothesis Test of 2 Independent Samples
+
+23: Inference of 2 Independent samples (Proportions)
+* 23.1 Hypotheses of 2 Independent samples
+* 23.2 Confidence Intervals for 2 Independent Samples
+* 23.3 Hypothesis Test of 2 Independent Samples
