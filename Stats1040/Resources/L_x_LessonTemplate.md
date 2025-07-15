@@ -32,12 +32,11 @@ Reading sections are from the [Introductory Statistics Textbook](../Resources/Op
 
 
 1. ?
-    * After solving on your own, check the solution: <button popovertarget="Problem_1">Solution</button>
-
+    * After solving on your own, check the <button popovertarget="Problem_1">Solution</button>
 2. ?
-    * After solving on your own, see solution here <button popovertarget="Problem_2">Solution</button>
+    * After solving on your own, check the <button popovertarget="Problem_2">Solution</button>
 3. ?
-    * After solving on your own, see solution here <button popovertarget="Problem_3">Solution</button>
+    * After solving on your own, check the <button popovertarget="Problem_3">Solution</button>
 
 <div popover id="Problem_1">
 
