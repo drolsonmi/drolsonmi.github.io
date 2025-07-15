@@ -45,15 +45,15 @@ $$H_0: \mu = 100$$
 
 #### The Alternate Hypothesis
 What if the null hypothesis isn't true? We need to establish a second hypothesis, known as an __Alternate Hypothesis__, which will be our assumption if the null hypothesis fails. The alternate hypothesis is based on what we want to show in our question. There are 3 different possible alternate hypothesis:
-1. The true value is greater than the null value
+* The true value is greater than the null value
 
 $$H_A: \mu > \mu_0$$
 
-2. The true value is less than the null value
+* The true value is less than the null value
 
 $$H_A: \mu < \mu_0$$
 
-3. The true value is different from the null value
+* The true value is different from the null value
 
 $$H_A: \mu \ne \mu_0$$
 
