@@ -2,3 +2,4 @@
 
 ### Chapters
 * [Chapter 1: The Atmosphere](Chapter01)
+* [Chapter 2: Heat](Chapter02)
