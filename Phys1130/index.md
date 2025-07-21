@@ -1,3 +1,4 @@
 # PHYS 1130 - Introduction to Meteorology
 
-### Lectures
+### Chapters
+* [Chapter 1: The Atmosphere](Chapter01)
