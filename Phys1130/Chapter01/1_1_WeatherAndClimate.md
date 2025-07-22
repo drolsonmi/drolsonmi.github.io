@@ -4,9 +4,8 @@ Chapter 1: The Atmosphere
 
 In this section, we look at the differences between Weather and Climate.
 
-# Outcomes
-
 # Reading
+* Chapter 1, "Weather and Climate" pages 17-26
 
 # Instruction
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W1r6BjFZ9n4?si=bGUs5AOSipnS10Qb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -25,8 +24,6 @@ __Climate__: Statements of what is/was happening in our atmosphere *over a range
 Climate statements are general statements, and may not indicate what is happening at a specific time.
 * "In Florida, summer rainstorms generally come at 3:00pm."
 * This is a climate statement and isn't a guarantee that it will rain at 3:00pm today.
-
-# Additional Resources
 
 # Review Questions
 Determine whether each of the following is a statement of weather or of climate.

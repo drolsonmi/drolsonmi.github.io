@@ -7,14 +7,13 @@
 PHYS 1130 - Introduction to Meteorology<br>
 Chapter 1: The Atmosphere
 
-# Outcomes
-
 # Reading
-
+* Chapter 1, "Overview of Earth's Atmosphere" pages 4-7
+  * The Early Atmosphere
+  * Composition of Today's Atmosphere
+  
 # Instruction
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cqitti-MaSg?si=UQ9f4eoAUEnP5-nO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# Additional Resources
 
 # Review Questions
 1. What gas is most abundant in our atmosphere?
