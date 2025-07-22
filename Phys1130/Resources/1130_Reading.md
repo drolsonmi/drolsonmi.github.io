@@ -34,16 +34,14 @@ All reading assignments are from our textbook, *Meteorology Today*, 12th Edition
 ## Chapter 2: Energy: Warming and Cooling Earth and the Atmosphere
 2.1 Energy and Temperature
 2.2 Heat
-2.3 Specific Heat
-2.4 Latent Heat
-2.5 Conduction
-2.6 Convection
-2.7 Radiation
-2.8 Blackbodies
-2.9 The Greenhouse Effect
-2.10 Scattering and Reflection
-2.11 The Energy Budget
-2.12 Space Weather
+2.3 Conduction
+2.4 Convection
+2.5 Radiation
+2.6 Blackbodies
+2.7 The Greenhouse Effect
+2.8 Scattering and Reflection
+2.9 The Energy Budget
+2.10 Space Weather
 
 ## Chapter 3: Seasonal and Daily Temperatures
 3.1 Why the Earth has Seasons: Elliptical Orbit
