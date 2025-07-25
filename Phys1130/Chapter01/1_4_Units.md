@@ -7,7 +7,9 @@ Chapter 1: The Atmosphere
 # Reading
 
 # Instruction
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sgt3hN9giuo?si=gvIQd3gA1OPFtyUV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7KAQU3oHbrY?si=_2S98tRVGxPO-smp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MulbKovdq0Y?si=6GBC24n2m2JUOxPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Additional Resources
 
