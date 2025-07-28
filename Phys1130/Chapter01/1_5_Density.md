@@ -1,3 +1,8 @@
+<head>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
 # 1.5 Density and Buoyancy
 PHYS 1130 - Introduction to Meteorology<br>
 Chapter 1: The Atmosphere
