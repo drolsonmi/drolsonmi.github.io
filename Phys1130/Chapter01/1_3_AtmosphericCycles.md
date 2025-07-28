@@ -34,7 +34,7 @@ Will there be an overall increase or decrease in carbon dioxide on this day?
 
 <div popover id="Question_1">
 
-## Question 1.1.1
+## Question 1.3.1
 1. On a particular day, carbon dioxide is produced in a small city with these major sources:
 * respiration (produces 50,000 kg in a day)
 * running cars (produces 246,000 kg a day)

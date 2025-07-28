@@ -25,7 +25,7 @@ Chapter 1: The Atmosphere
 
 <div popover id="Question_1">
 
-## Question 1.1.1
+## Question 1.2.1
 1. What gas is most abundant in our atmosphere?
 
 The most stable gas in our atmosphere is $$N_2$$, nitrogen gas. Because it is so stable, it isn't removed much from the atmosphere and has accumulated for millions of years. So, __nitrogen gas is the most abundant gas in our atmosphere__.
@@ -35,7 +35,7 @@ The most stable gas in our atmosphere is $$N_2$$, nitrogen gas. Because it is so
 
 <div popover id="Question_2">
 
-## Question 1.1.2
+## Question 1.2.2
 2. What gas has the most variability in our atmosphere?
 
 There are many gases with a lot of variability, most notably water vapor and carbon dioxide.
@@ -49,7 +49,7 @@ So, __water vapor is the gas with the most variability in our atmosphere__.
 
 <div popover id="Question_3">
 
-## Question 1.1.3
+## Question 1.2.3
 3. How did water end up in our atmosphere?
 
 Water vapor entered our atmosphere through the process of __outgassing__ where pockets of gas under the Earth's crust leak through vents in the crust.
