@@ -5,7 +5,7 @@
 
 # 1.2 The Origin and Composition of the Atmosphere
 PHYS 1130 - Introduction to Meteorology<br>
-Chapter 1: The Atmosphere
+Chapter 1. Earth and Its Atmosphere
 
 # Reading
 * Chapter 1, "Overview of Earth's Atmosphere" pages 4-7

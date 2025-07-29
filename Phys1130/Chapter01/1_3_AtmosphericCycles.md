@@ -1,6 +1,6 @@
 # 1.3 Atmospheric Cycles
 PHYS 1130 - Introduction to Meteorology<br>
-Chapter 1: The Atmosphere
+Chapter 1. Earth and Its Atmosphere
 
 # Reading
 * Chapter 1, "Overview of Earth's Atmosphere" pages 7-10

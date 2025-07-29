@@ -5,7 +5,7 @@
 
 # 1.5 Density and Buoyancy
 PHYS 1130 - Introduction to Meteorology<br>
-Chapter 1: The Atmosphere
+Chapter 1. Earth and Its Atmosphere
 
 # Reading
 * Chapter 1, "Vertical Structure of the Atmosphere" pages 11-12

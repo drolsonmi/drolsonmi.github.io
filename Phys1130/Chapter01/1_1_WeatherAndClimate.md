@@ -1,6 +1,6 @@
 # 1.1 Weather and Climate
 PHYS 1130 - Introduction to Meteorology<br>
-Chapter 1: The Atmosphere
+Chapter 1. Earth and Its Atmosphere
 
 In this section, we look at the differences between Weather and Climate.
 
