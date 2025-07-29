@@ -12,6 +12,7 @@ Chapter 2. Energy: Warming and Cooling Earth and the Atmosphere
 # Reading
 
 # Instruction
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ODrx3mRyqoc?si=H9uSswlKH8LsIiAP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Additional Resources
 
