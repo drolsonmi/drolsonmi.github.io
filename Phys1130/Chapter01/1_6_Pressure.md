@@ -5,7 +5,7 @@
 
 # 1.6 Pressure
 PHYS 1130 - Introduction to Meteorology<br>
-Chapter 1: The Atmosphere
+Chapter 1. Earth and Its Atmosphere
 
 # Reading
 * Chapter 1, "Vertical Structure of the Atmosphere" pages 11-12

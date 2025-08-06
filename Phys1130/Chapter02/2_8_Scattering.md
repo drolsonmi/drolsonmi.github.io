@@ -5,13 +5,14 @@
 
 # L.x Topic
 PHYS 1130 - Introduction to Meteorology<br>
-Chapter 1: The Atmosphere
+Chapter 2. Energy: Warming and Cooling Earth and the Atmosphere
 
 # Outcomes
 
 # Reading
 
 # Instruction
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UslyRi6Xq98?si=qmbWO6a3vMuLXks_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Additional Resources
 
