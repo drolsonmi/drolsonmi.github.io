@@ -9,6 +9,7 @@
 * [Reading from Textbook](Resources/TextbookSections.md)
 * [Z-Table](Resources/Z-Table.pdf)
 * [T-Table](Resources/T-Table.pdf)
+* [Decision Tree for Inference](Resources/DecisionTree.pdf)
 
 ### Lectures
 
