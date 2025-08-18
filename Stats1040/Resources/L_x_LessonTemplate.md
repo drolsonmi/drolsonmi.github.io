@@ -40,6 +40,30 @@ Reading sections are from the [Introductory Statistics Textbook](../Resources/Op
 
 <div popover id="Problem_1">
 
+<head>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
+# Lesson 20.1 Introduction to Hypothesis Testing
+## Reading
+Reading sections are from the [Introductory Statistics Textbook](../Resources/OpenIntroTextbook.pdf)
+* 7.1.1 ---
+
+## Lesson
+
+## Practice
+
+
+1. ?
+    * After solving on your own, check the <button popovertarget="Problem_1">Solution</button>
+2. ?
+    * After solving on your own, check the <button popovertarget="Problem_2">Solution</button>
+3. ?
+    * After solving on your own, check the <button popovertarget="Problem_3">Solution</button>
+
+<div popover id="Problem_1">
+
 ## Problem 20.1.1
 A popover is an element that is placed on top of everything else.
 * Item 1

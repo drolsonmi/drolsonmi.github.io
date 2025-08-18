@@ -3,11 +3,14 @@ Our textbook this semester is [Introductory Statistics](OpenIntroTextbook.pdf) b
 # Lesson 1 Variables
 Readings from our [Introductory Statistics Textbook](OpenIntroTextbook.pdf))
 ### 1.1 Variables
-* 1.2.1
+* 1.2.1 Observations, variables, and data matrices (pages 11-12)
 * 1.2.2 Types of Variables (pages 12-13)
-* 1.2.3 (pages 13-15)
+* 1.2.3 Relationships between variables (pages 13-15)
 
-### 1.2 Levels of Measurement
+### 1.2 Quantitative Variables
+* 1.2.2 Types of Variables (pages 12-13)
+
+### 1.3 Levels of Measurement
 * 1.2.2 Types of Variables (pages 12-13)
 
 # Lesson 2 Sampling Methods
