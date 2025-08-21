@@ -5,6 +5,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 usemathjax: true
+title: MATH 1040 - Introduction to Statistics
 
 # sidebar:
 #   - 18-3
