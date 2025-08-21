@@ -59,6 +59,7 @@ Now, take the weight of different people. Options would be 100 pounds, 101, 102,
                 </tbody>
             </table>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t8MHzfSD72c?si=uFU3eU_J0Fnzb4P9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Practice
 Following are the quantitative variables that we identified from [lesson 1.1](1_1_Variables.md) along with a comple of other variables. Identify if these are discrete or continuous variables. 
