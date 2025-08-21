@@ -12,6 +12,11 @@
 * [Decision Tree for Inference](Resources/DecisionTree.pdf)
 
 ### Lectures
+1: Variables
+* [Lesson 1 Overview](Chapter01)
+* [1.1 Variables](Chapter01/1_1_Variables.md)
+* [1.2 Quantitative Variables](Chapter01/1_2_QuantitativeVariables.md)
+* [1.3 Levels of Measurement](Chapter01/1_3_LevelsOfMeasurement.md)
 
 18: Confidence Intervals with 1 Sample Means
 * [Lesson 18 Overview](Chapter18)
