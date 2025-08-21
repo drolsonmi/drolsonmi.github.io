@@ -7,4 +7,4 @@ __Age__ is generally a __ratio__ variable
 
 *Note* that if Age is used to separate people into groups (such as ages 0-3, 4-7, 8-12, etc.), then this is categorizing people. It would then be an __Ordinal__ variable.
 
-[Return to lesson](../1_3_LevelsOfMeasurement.md#Practice)
+[Return to lesson](../1_3_LevelsOfMeasurement.md#practice)
