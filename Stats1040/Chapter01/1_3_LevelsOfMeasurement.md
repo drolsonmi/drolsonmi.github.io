@@ -4,6 +4,10 @@
 <title>Lesson 1.3 Levels of Measurement</title>
 </head>
 
+---
+title: Lesson 1: Variables
+---
+
 # Lesson 1.3 Levels of Measurement
 ## Reading
 Reading sections are from the [Introductory Statistics Textbook](../Resources/OpenIntroTextbook.pdf)
