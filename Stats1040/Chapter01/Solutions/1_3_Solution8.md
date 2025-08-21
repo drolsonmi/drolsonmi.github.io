@@ -4,4 +4,4 @@ __Grade in School__ is an __Ordinal__ variable.
 * Even though it can be a number, the number only identifies the group
 * There is a natural order (freshman is lower than sophomore)
 
-[Return to lesson](../1_3_LevelsOfMeasurement.md)
+[Return to lesson](../1_3_LevelsOfMeasurement.md#Practice)

@@ -5,4 +5,4 @@ __Zip Code__ is a __Nominal__ variable.
   * Could easily use letters as a Zip Code: 1AB3E instead of 11235
 * There is no natural order (a Zip Code of 24667 is not "higher" than 23532) - You can rearrange them and it won't change the meaning
 
-[Return to lesson](../1_3_LevelsOfMeasurement.md)
+[Return to lesson](../1_3_LevelsOfMeasurement.md#Practice)

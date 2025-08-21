@@ -10,4 +10,4 @@ Note that GPA can also be used as an Ordinal variable
 * 0.5-2.5 = D
 * 0.0-0.5 = F
 
-[Return to lesson](../1_3_LevelsOfMeasurement.md)
+[Return to lesson](../1_3_LevelsOfMeasurement.md#Practice)
