@@ -27,24 +27,24 @@ Here are a few variables. Determine if they are Quantitative or Categorical, the
     * After solving on your own, check the <button popovertarget="Problem_1">Solution</button>
 2. Name
     * After solving on your own, check the <button popovertarget="Problem_2">Solution</button>
-3. Temperature (given in $${}^\circ F$$ or $${}^\circ C$$)
+3. Temperature (given in degrees Fahrenheit or degrees Celsius)
     * After solving on your own, check the <button popovertarget="Problem_3">Solution</button>
 4. Pain Level (for example, "rate your pain on a scale of 1-10")
-    * After solving on your own, check the <button popovertarget="Problem_2">Solution</button>
+    * After solving on your own, check the <button popovertarget="Problem_4">Solution</button>
 5. Time of the day
-    * After solving on your own, check the <button popovertarget="Problem_2">Solution</button>
+    * After solving on your own, check the <button popovertarget="Problem_5">Solution</button>
 6. Weight
-    * After solving on your own, check the <button popovertarget="Problem_2">Solution</button>
+    * After solving on your own, check the <button popovertarget="Problem_6">Solution</button>
 7. Book Title
-    * After solving on your own, check the <button popovertarget="Problem_2">Solution</button>
+    * After solving on your own, check the <button popovertarget="Problem_7">Solution</button>
 8. Grade in school (Both 5th, 6th, 7th, ... and Freshman, Sophomore, Junior, Senior)
-    * After solving on your own, check the <button popovertarget="Problem_2">Solution</button>
+    * After solving on your own, check the <button popovertarget="Problem_8">Solution</button>
 9. ZIP Code
-    * After solving on your own, check the <button popovertarget="Problem_2">Solution</button>
+    * After solving on your own, check the <button popovertarget="Problem_9">Solution</button>
 10. Time to run a race
-    * After solving on your own, check the <button popovertarget="Problem_2">Solution</button>
+    * After solving on your own, check the <button popovertarget="Problem_10">Solution</button>
 11. GPA
-    * After solving on your own, check the <button popovertarget="Problem_2">Solution</button>
+    * After solving on your own, check the <button popovertarget="Problem_11">Solution</button>
 
 <div popover id="Problem_1">
 
@@ -126,7 +126,7 @@ __Grade in School__ is an __Ordinal__ variable.
 <div popover id="Problem_9">
 
 ## Problem 1.3.9
-__Zip Code__ is a Nominal variable.
+__Zip Code__ is a __Nominal__ variable.
 * Used to identify an object/grade (in this case, a region)
 * Even though it is a number, the number only identifies the group
   * Could easily use letters as a Zip Code: 1AB3E instead of 11235
