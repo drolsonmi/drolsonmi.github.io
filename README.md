@@ -5,5 +5,5 @@
 </head>
 
 # Courses Materials
-* [MATH 1040 - Introduction to Statistics](Stats1040)
-* [PHYS 1130 - Introduction to Meteorology](Phys1130)
+* [MATH 1040 - Introduction to Statistics](https://drolsonmi.github.io/math1040/)
+* [PHYS 1130 - Introduction to Meteorology](https://drolsonmi.github.io/phys1130/)
