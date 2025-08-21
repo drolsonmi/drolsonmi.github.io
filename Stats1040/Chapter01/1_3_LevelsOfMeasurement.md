@@ -48,12 +48,9 @@ Here are a few variables. Determine if they are Quantitative or Categorical, the
 
 <div popover id="Problem_1">
 
-## Problem 1.3.1
-__Age__ is generally a __Ratio__ variable
-* Numerical variable
-* There is a definite zero (the moment someone was born) - An age of 0 means there is no age
+Problem 1.3.1: AGE is generally a RATIO variable because (1) it is a numerical variable, and (2) there is a definite zero (the moment someone was born) - An age of 0 means there is no age.
 
-*Note* that if Age is used to separate people into groups (such as ages 0-3, 4-7, 8-12, etc.), then this is categorizing people. It would then be an __Ordinal__ variable.
+Note that if Age is used to separate people into groups (such as ages 0-3, 4-7, 8-12, etc.), then this is categorizing people. It would then be an __Ordinal__ variable.
 <center><button popovertarget="Problem_1" popovertargetaction="hide">Close</button></center>
 </div>
 
