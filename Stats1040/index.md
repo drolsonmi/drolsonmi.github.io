@@ -18,6 +18,12 @@
 * [1.2 Quantitative Variables](Chapter01/1_2_QuantitativeVariables.md)
 * [1.3 Levels of Measurement](Chapter01/1_3_LevelsOfMeasurement.md)
 
+2: Sampling Methods
+* [Lesson 2 Overview](Chapter02)
+* [2.1 Randomness](Chapter02/2_1_Randomness.md)
+* [2.2 Sampling Methods](Chapter02/2_2_SamplingMethods.md)
+* [2.3 Not-so-random Sampling Methods](Chapter02/2_3_NotRandomMethods.md)
+
 18: Confidence Intervals with 1 Sample Means
 * [Lesson 18 Overview](Chapter18)
 * [18.1 Critical Values](Chapter18/18_1_CriticalValues.md)
