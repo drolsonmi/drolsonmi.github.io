@@ -5,6 +5,7 @@
 </head>
 
 # Courses Materials
+Following are the websites for my courses.
 * [MATH 1040 - Introduction to Statistics](https://drolsonmi.github.io/math1040)
 * [MATH 3080 - Foundations of Data Science](https://github.com/drolsonmi/math3080)
 * [MATH 3280 - Data Mining](https://github.com/drolsonmi/math3280)
