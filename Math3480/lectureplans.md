@@ -34,3 +34,5 @@
 * Feature Scaling
 * Piping
 * scikit-learn
+
+> Students try some preprocessing with the `diamonds` dataset in *seaborn*
