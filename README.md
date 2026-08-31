@@ -6,6 +6,7 @@
 
 # Courses Materials
 * [MATH 1040 - Introduction to Statistics](https://drolsonmi.github.io/math1040/)
+* [MATH 2040 - Applied Statistics](https://drolsonmi.github.io/math2040/)
 * [MATH 3080 - Foundations of Data Science](https://drolsonmi.github.io/math3080/) ([MATH 3080 GitHub](https://github.com/drolsonmi/math3080))
 * [MATH 3280 - Data Mining](https://drolsonmi.github.io/math3280/) ([MATH 3280 GitHub](https://github.com/drolsonmi/math3280))
 * [MATH 3480 - Machine Learning](https://drolsonmi.github.io/math3480/) ([MATH 3480 GitHub](https://github.com/drolsonmi/math3480))
